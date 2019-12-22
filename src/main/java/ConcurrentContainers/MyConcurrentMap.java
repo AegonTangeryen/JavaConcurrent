@@ -1,8 +1,6 @@
 package ConcurrentContainers;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentSkipListMap;
 import java.util.concurrent.CountDownLatch;
 
 // 各个容器在多线程并发时的效率对比
